@@ -9,4 +9,4 @@
 #### Support Vector Machines
 #### K-means Clustering and Principal Component
 
-#### Also include other algorithms like Anomaly Detection and Recommender Systemsrecommender systems
+#### Also include other algorithms like Anomaly Detection and Recommender Systems
