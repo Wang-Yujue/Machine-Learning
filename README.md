@@ -7,6 +7,6 @@
 ####  - Neural Networks Learning	
 ####  - Regularized Linear Regression and Bias v.s Variance	
 ####  - Support Vector Machines
-####  - K-means Clustering and Principal Component
+####  - K-means Clustering and Principal Component Analysis
 
 #### Also include other algorithms like Anomaly Detection and Recommender Systems
