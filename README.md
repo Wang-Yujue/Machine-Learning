@@ -8,6 +8,5 @@
 #### Regularized Linear Regression and Bias v.s Variance	
 #### Support Vector Machines
 #### K-means Clustering and Principal Component
-#### Anomaly Detection and Recommender Systems
 
-#### Also include other algorithms like recommender systems
+#### Also include other algorithms like Anomaly Detection and Recommender Systemsrecommender systems
